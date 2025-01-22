@@ -9,7 +9,7 @@ import Header from './components/Header';
 
 function RoutesApp() {
     return(
-        <BrowserRouter>
+        <BrowserRouter basename="/PrimeFlix">
             <Header/>
 
             <Routes>
