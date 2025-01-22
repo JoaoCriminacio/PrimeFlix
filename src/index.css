@@ -5,13 +5,14 @@
 }
 
 body {
+  height: 100%;
   font-family: sans-serif;
 }
 
 .App {
+  min-height: 100vh;
   display: flex;
   width: 100%;
-  justify-content: center;
   align-items: center;
   flex-direction: column;
 }
