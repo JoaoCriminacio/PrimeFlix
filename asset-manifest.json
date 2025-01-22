@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PrimeFlix/static/css/main.33bb3d45.css",
+    "main.js": "/PrimeFlix/static/js/main.026e3769.js",
+    "index.html": "/PrimeFlix/index.html",
+    "main.33bb3d45.css.map": "/PrimeFlix/static/css/main.33bb3d45.css.map",
+    "main.026e3769.js.map": "/PrimeFlix/static/js/main.026e3769.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33bb3d45.css",
+    "static/js/main.026e3769.js"
+  ]
+}
